@@ -1,2 +1,2 @@
 # creationlabs.github.io
-public profiel
+public profile
