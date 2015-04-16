@@ -1,23 +1,54 @@
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html dir="ltr" lang="en"> 
-<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
-<head>
-
-
-<meta content="Homepage of Creation Labs" name="description">
-    <meta content="2015 projects" name="Creation Labs - VIT University">
-
-<title>Creation Lab's Home Page</title>
-<!--<link rel="icon" 
-      type="image/png" 
-      href=" ">-->
+<html> <head>
+<title>Creation Labs</title>
 </head>
+<link rel="stylesheet" href="style.css" type="text/css">
+<title>Creation Lab's Home Page</title>
+	<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+	<meta content="Homepage of Creation Labs" name="description">
+	    <meta content="2015 projects" name="Creation Labs - VIT University">
+   </head>
+   <body>
+    <table style="text-align: left; height: 475px;" border="0" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td style="vertical-align: top; width: 190px;">
+            <table style="text-align: left;" border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td style="vertical-align: top; height: 140px;"><br>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <br>
+            <pre>  <a href="index.html">Home</a></pre>
+            <pre>  <a href = "catarcam.html"> Catarcam</a></pre>
+            <pre>  <a href = "dexter.html">Dexter</a></pre>
+            <pre>  <a href = "p2.html"> Project Pill-box</a></pre>
+            <pre>  <a href = "cobalt.html"> Cobalt</a></pre>
+            <pre>  <a href="tutorials.html">Software & Tutorials</a></pre>
+            <pre>  <a href="organizations.html">Sponsors</a></pre>
+          </td>
+          <td style="width: 1px; background-color: rgb(102, 0, 0); vertical-align: top;"><br>
+          </td>
+          <td style="width: 19px;"> <br>
+          </td>
+          <td style="width: 620px;">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td>
+                    
+                  </td>
+                </tr>
+              </tbody>
+            </table>
 
-<body>
 <h1>Creation Labs</h1>
 <h3>Innovation at its best</h3>
 
-
+<p>
 <dl>
 <dt><b>About Us</b>
     <dd> Creation Labs is a student driven space which encourages students to design and innovate in every possible field. A place where students are encouraged to think out of the box, be creative and bring out the best in themselves. Its a lab by the students and for the students.
@@ -53,18 +84,16 @@ Some of our project web pages, http://projectsugarcube.weebly.com/, http://scrib
 
     Considering the nascent stage of this unorthodox multidisciplinary research platform, its difficult to correlate and derive any relation between lab participation and improved academic performance of students. But we have observed a consistency in student performance and overall academic and social development of participating students
 
-<dt><b>Projects</b>
+<!--<dt><b>Projects</b>
   <dd> <a href = "catarcam.html"> Catarcam</a>
-  <dd> <a href = "dani.html" > Dexterous, Anthropomorphic and Intelligent Robotic Hand</a>
   <dd> <a href = "dexter.html">Dexter</a>
   <dd> <a href = "p2.html"> Project Pill-box</a>
   <dd> <a href = "cobalt.html"> Cobalt</a>
   <dd> <a href = "streaker.html">Autonmous Bio-streaker</a>
-<td>
+<td>-->
 <dl>
 <dt><b> Contact: </b>
    <dd> email: creationlabsteam (at) gmail (dot) com</a> 
-   <dd> tel: (+91) 7598855445
 
 </dl>
 </td>
@@ -73,14 +102,10 @@ Some of our project web pages, http://projectsugarcube.weebly.com/, http://scrib
 <HR size = 2 width = "75%">
 
 <address>
-
-
 Created 7th February 2015.<br>
 Last updated 7th February 2015.<br>
-
-Maintained by <a
-HREF="http://pagakarthik.github.io/">Karthik Paga</a>.
-
+Maintained by The Creation Lab Team.
 </address>
+</p>
 </body>
 </html>
